@@ -310,3 +310,5 @@ def window2(): #window utama
         window2.mainloop()
 
 window1()
+
+#Idea and code by Zerrium
